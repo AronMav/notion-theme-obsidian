@@ -22,7 +22,7 @@
   --interactive-accent: #92A1A1;
   --interactive-before: #5e6565;
   --background-modifier-border: #92a1a17a;
-  --blockquote-border: rgba(77, 60, 166, .6);
+  --blockquote-border: #FFA344;
   --text-accent: #ff9640;
   --interactive-accent-rgb: #FFA344;
   --text-muted: #FFA344;
@@ -278,7 +278,7 @@ img
 {
   font-family: var(--font-family-editor);
   font-weight: 500;
-  font-size: 28px;
+  font-size: 30px;
   font-weight: bold;
   color: var(--text-title-h1);
 }
@@ -356,7 +356,7 @@ img
 {
   font-family: var(--font-family-preview);
   font-weight: 500;
-  font-size: 28px;
+  font-size: 30px;
   font-weight: bold;
   color: var(--text-title-h1);
 }
