@@ -131,7 +131,7 @@ code,
 /* code and code blocks for preview */
 .markdown-preview-view code
 {
-  font-size: 14.5px;
+  font-size: 13px;
 }
 
 .cm-s-obsidian pre.HyperMD-codeblock {
