@@ -1,4 +1,4 @@
-# Notion theme for [Obsidian.md](https://obsidian.md)
+# Orange theme for [Obsidian.md](https://obsidian.md)
 
 ![Screenshot](./screencap.png)
 
