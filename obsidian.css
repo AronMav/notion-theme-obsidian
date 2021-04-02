@@ -16,10 +16,10 @@
   --text-link: #59a2c5;
   --text-a: #59a2c5;
   --text-a-hover: #b3a14b;
-  --text-mark: #d79921;
+  --text-mark: #a47a00;
   --pre-code: #36393f;
   --text-highlight-bg: #2F4C58;
-  --interactive-accent: #92A1A1;
+  --interactive-accent: #FFA344;
   --interactive-before: #5e6565;
   --background-modifier-border: #92a1a17a;
   --blockquote-border: #FFA344;
@@ -39,7 +39,7 @@ strong {
 }
 
 em {
-  color: #8ebf6e;
+  color: #ffb973;
 }
 
 mark
@@ -131,7 +131,7 @@ code,
 /* code and code blocks for preview */
 .markdown-preview-view code
 {
-  font-size: 14.5px;
+  font-size: 13px;
 }
 
 .cm-s-obsidian pre.HyperMD-codeblock {
